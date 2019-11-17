@@ -26,7 +26,7 @@ if(isset($_GET['inject'])) {
         exit;
     }
     if ($result->num_rows === 0) {
-        echo "We could not find a match for ID $id, sorry about that. Please try again.";
+        echo "报错: 找不到记录";
         exit;
     }
     else {
