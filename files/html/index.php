@@ -32,7 +32,7 @@ if(isset($_GET['inject'])) {
     else {
         //echo "var_dump(\$mysqli->query(\$sql)->fetch_assoc()):<br><hr>";
         //var_dump($result->fetch_assoc());
-        echo "找到了一些记录....但我不告诉你是什么"
+        echo "找到了一些记录....但我不告诉你是什么";
         echo "<br>";
     }
 
