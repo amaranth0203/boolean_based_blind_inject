@@ -1,1 +1,1 @@
-# boolean_based_blind_inject
+最简单的 布尔类型的盲注
